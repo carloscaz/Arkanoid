@@ -1,0 +1,8 @@
+{
+  "positionX": 150,
+  "positionY": 565,
+
+  "RenderComponent": {
+    "texture": "Data/Textures/FullHeart.png"
+  }
+}

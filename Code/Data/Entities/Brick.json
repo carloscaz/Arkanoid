@@ -1,0 +1,8 @@
+{
+  "BrickComponent": {
+    "lifes": 1
+  },
+  "RenderComponent": {
+    "texture":  "Data/Textures/Brick.png"
+  }
+}

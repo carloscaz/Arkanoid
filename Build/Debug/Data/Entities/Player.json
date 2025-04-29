@@ -1,0 +1,12 @@
+{
+  "RenderComponent": {
+    "texture": "Data/Textures/Player.png"
+  },
+  "TransformComponent": {
+    "positionX": 400,
+    "positionY": 50
+  },
+  "PlayerComponent": {
+    "speed": 200
+  }
+}

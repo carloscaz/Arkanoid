@@ -1,0 +1,13 @@
+{
+  "RenderComponent": {
+    "texture": "Data/Textures/Ball.png"
+  },
+  "TransformComponent": {
+    "positionX": 400,
+    "positionY": 100
+  },
+  "RigidBody": {
+    "velocityX": 0,
+    "velocityY": 150
+  }
+}

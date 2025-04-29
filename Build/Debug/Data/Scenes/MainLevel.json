@@ -1,0 +1,7 @@
+{
+  "backgroundTexture": "Data/Textures/Background.png",
+  "numRows": 5,
+  "numColumns": 7,
+  "numBalls": 3,
+  "numHealthIcons":  3
+}

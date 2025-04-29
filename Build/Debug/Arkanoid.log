@@ -1,0 +1,1770 @@
+﻿  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_glfw.cpp
+  imgui_impl_opengl3.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  BallComponent.cpp
+  BrickComponent.cpp
+  Colliders.cpp
+  Component.cpp
+  ComponentManager.cpp
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(67,2): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Components/ComponentManager.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(39,7):
+  Diagnóstico en la función 'void ComponentManager::AddComponent(EntityID,T &)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(72,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Components/ComponentManager.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(39,7):
+  Diagnóstico en la función 'void ComponentManager::AddComponent(EntityID,T &)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(77,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Components/ComponentManager.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(39,7):
+  Diagnóstico en la función 'void ComponentManager::AddComponent(EntityID,T &)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(82,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Components/ComponentManager.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(39,7):
+  Diagnóstico en la función 'void ComponentManager::AddComponent(EntityID,T &)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(87,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Components/ComponentManager.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(39,7):
+  Diagnóstico en la función 'void ComponentManager::AddComponent(EntityID,T &)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(92,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Components/ComponentManager.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(39,7):
+  Diagnóstico en la función 'void ComponentManager::AddComponent(EntityID,T &)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(97,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Components/ComponentManager.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(39,7):
+  Diagnóstico en la función 'void ComponentManager::AddComponent(EntityID,T &)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(102,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Components/ComponentManager.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(39,7):
+  Diagnóstico en la función 'void ComponentManager::AddComponent(EntityID,T &)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(107,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Components/ComponentManager.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(39,7):
+  Diagnóstico en la función 'void ComponentManager::AddComponent(EntityID,T &)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(117,2): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Components/ComponentManager.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(43,5):
+  Diagnóstico en la función 'T &ComponentManager::GetComponent(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(122,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Components/ComponentManager.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(43,5):
+  Diagnóstico en la función 'T &ComponentManager::GetComponent(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(127,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Components/ComponentManager.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(43,5):
+  Diagnóstico en la función 'T &ComponentManager::GetComponent(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(132,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Components/ComponentManager.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(43,5):
+  Diagnóstico en la función 'T &ComponentManager::GetComponent(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(137,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Components/ComponentManager.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(43,5):
+  Diagnóstico en la función 'T &ComponentManager::GetComponent(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(142,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Components/ComponentManager.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(43,5):
+  Diagnóstico en la función 'T &ComponentManager::GetComponent(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(147,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Components/ComponentManager.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(43,5):
+  Diagnóstico en la función 'T &ComponentManager::GetComponent(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(152,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Components/ComponentManager.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(43,5):
+  Diagnóstico en la función 'T &ComponentManager::GetComponent(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(162,2): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Components/ComponentManager.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(47,21):
+  Diagnóstico en la función 'std::shared_ptr<_Ty> ComponentManager::GetComponentPointer(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(167,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Components/ComponentManager.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(47,21):
+  Diagnóstico en la función 'std::shared_ptr<_Ty> ComponentManager::GetComponentPointer(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(181,2): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Components/ComponentManager.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(51,7):
+  Diagnóstico en la función 'bool ComponentManager::HasComponent(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(189,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Components/ComponentManager.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(51,7):
+  Diagnóstico en la función 'bool ComponentManager::HasComponent(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(197,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Components/ComponentManager.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(51,7):
+  Diagnóstico en la función 'bool ComponentManager::HasComponent(EntityID)' generada por el compilador
+  
+  PlayerComponent.cpp
+  PowerUpComponent.cpp
+  RenderComponent.cpp
+  RigidBody.cpp
+  TransformComponent.cpp
+  UIHealthComponent.cpp
+  Entity.cpp
+  EntityManager.cpp
+  Generando código...
+  Compilando...
+  BallSystem.cpp
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(67,2): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/BallSystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(39,7):
+  Diagnóstico en la función 'void ComponentManager::AddComponent(EntityID,T &)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(72,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/BallSystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(39,7):
+  Diagnóstico en la función 'void ComponentManager::AddComponent(EntityID,T &)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(77,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/BallSystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(39,7):
+  Diagnóstico en la función 'void ComponentManager::AddComponent(EntityID,T &)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(82,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/BallSystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(39,7):
+  Diagnóstico en la función 'void ComponentManager::AddComponent(EntityID,T &)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(87,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/BallSystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(39,7):
+  Diagnóstico en la función 'void ComponentManager::AddComponent(EntityID,T &)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(92,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/BallSystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(39,7):
+  Diagnóstico en la función 'void ComponentManager::AddComponent(EntityID,T &)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(97,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/BallSystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(39,7):
+  Diagnóstico en la función 'void ComponentManager::AddComponent(EntityID,T &)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(102,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/BallSystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(39,7):
+  Diagnóstico en la función 'void ComponentManager::AddComponent(EntityID,T &)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(107,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/BallSystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(39,7):
+  Diagnóstico en la función 'void ComponentManager::AddComponent(EntityID,T &)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(117,2): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/BallSystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(43,5):
+  Diagnóstico en la función 'T &ComponentManager::GetComponent(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(122,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/BallSystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(43,5):
+  Diagnóstico en la función 'T &ComponentManager::GetComponent(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(127,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/BallSystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(43,5):
+  Diagnóstico en la función 'T &ComponentManager::GetComponent(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(132,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/BallSystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(43,5):
+  Diagnóstico en la función 'T &ComponentManager::GetComponent(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(137,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/BallSystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(43,5):
+  Diagnóstico en la función 'T &ComponentManager::GetComponent(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(142,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/BallSystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(43,5):
+  Diagnóstico en la función 'T &ComponentManager::GetComponent(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(147,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/BallSystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(43,5):
+  Diagnóstico en la función 'T &ComponentManager::GetComponent(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(152,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/BallSystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(43,5):
+  Diagnóstico en la función 'T &ComponentManager::GetComponent(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(162,2): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/BallSystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(47,21):
+  Diagnóstico en la función 'std::shared_ptr<_Ty> ComponentManager::GetComponentPointer(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(167,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/BallSystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(47,21):
+  Diagnóstico en la función 'std::shared_ptr<_Ty> ComponentManager::GetComponentPointer(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(181,2): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/BallSystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(51,7):
+  Diagnóstico en la función 'bool ComponentManager::HasComponent(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(189,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/BallSystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(51,7):
+  Diagnóstico en la función 'bool ComponentManager::HasComponent(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(197,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/BallSystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(51,7):
+  Diagnóstico en la función 'bool ComponentManager::HasComponent(EntityID)' generada por el compilador
+  
+  BrickSystem.cpp
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(67,2): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/BrickSystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(39,7):
+  Diagnóstico en la función 'void ComponentManager::AddComponent(EntityID,T &)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(72,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/BrickSystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(39,7):
+  Diagnóstico en la función 'void ComponentManager::AddComponent(EntityID,T &)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(77,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/BrickSystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(39,7):
+  Diagnóstico en la función 'void ComponentManager::AddComponent(EntityID,T &)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(82,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/BrickSystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(39,7):
+  Diagnóstico en la función 'void ComponentManager::AddComponent(EntityID,T &)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(87,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/BrickSystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(39,7):
+  Diagnóstico en la función 'void ComponentManager::AddComponent(EntityID,T &)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(92,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/BrickSystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(39,7):
+  Diagnóstico en la función 'void ComponentManager::AddComponent(EntityID,T &)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(97,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/BrickSystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(39,7):
+  Diagnóstico en la función 'void ComponentManager::AddComponent(EntityID,T &)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(102,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/BrickSystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(39,7):
+  Diagnóstico en la función 'void ComponentManager::AddComponent(EntityID,T &)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(107,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/BrickSystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(39,7):
+  Diagnóstico en la función 'void ComponentManager::AddComponent(EntityID,T &)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(117,2): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/BrickSystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(43,5):
+  Diagnóstico en la función 'T &ComponentManager::GetComponent(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(122,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/BrickSystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(43,5):
+  Diagnóstico en la función 'T &ComponentManager::GetComponent(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(127,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/BrickSystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(43,5):
+  Diagnóstico en la función 'T &ComponentManager::GetComponent(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(132,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/BrickSystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(43,5):
+  Diagnóstico en la función 'T &ComponentManager::GetComponent(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(137,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/BrickSystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(43,5):
+  Diagnóstico en la función 'T &ComponentManager::GetComponent(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(142,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/BrickSystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(43,5):
+  Diagnóstico en la función 'T &ComponentManager::GetComponent(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(147,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/BrickSystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(43,5):
+  Diagnóstico en la función 'T &ComponentManager::GetComponent(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(152,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/BrickSystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(43,5):
+  Diagnóstico en la función 'T &ComponentManager::GetComponent(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(162,2): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/BrickSystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(47,21):
+  Diagnóstico en la función 'std::shared_ptr<_Ty> ComponentManager::GetComponentPointer(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(167,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/BrickSystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(47,21):
+  Diagnóstico en la función 'std::shared_ptr<_Ty> ComponentManager::GetComponentPointer(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(181,2): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/BrickSystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(51,7):
+  Diagnóstico en la función 'bool ComponentManager::HasComponent(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(189,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/BrickSystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(51,7):
+  Diagnóstico en la función 'bool ComponentManager::HasComponent(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(197,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/BrickSystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(51,7):
+  Diagnóstico en la función 'bool ComponentManager::HasComponent(EntityID)' generada por el compilador
+  
+  CollisionSystem.cpp
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(67,2): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/CollisionSystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(39,7):
+  Diagnóstico en la función 'void ComponentManager::AddComponent(EntityID,T &)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(72,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/CollisionSystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(39,7):
+  Diagnóstico en la función 'void ComponentManager::AddComponent(EntityID,T &)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(77,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/CollisionSystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(39,7):
+  Diagnóstico en la función 'void ComponentManager::AddComponent(EntityID,T &)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(82,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/CollisionSystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(39,7):
+  Diagnóstico en la función 'void ComponentManager::AddComponent(EntityID,T &)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(87,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/CollisionSystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(39,7):
+  Diagnóstico en la función 'void ComponentManager::AddComponent(EntityID,T &)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(92,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/CollisionSystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(39,7):
+  Diagnóstico en la función 'void ComponentManager::AddComponent(EntityID,T &)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(97,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/CollisionSystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(39,7):
+  Diagnóstico en la función 'void ComponentManager::AddComponent(EntityID,T &)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(102,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/CollisionSystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(39,7):
+  Diagnóstico en la función 'void ComponentManager::AddComponent(EntityID,T &)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(107,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/CollisionSystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(39,7):
+  Diagnóstico en la función 'void ComponentManager::AddComponent(EntityID,T &)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(117,2): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/CollisionSystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(43,5):
+  Diagnóstico en la función 'T &ComponentManager::GetComponent(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(122,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/CollisionSystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(43,5):
+  Diagnóstico en la función 'T &ComponentManager::GetComponent(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(127,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/CollisionSystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(43,5):
+  Diagnóstico en la función 'T &ComponentManager::GetComponent(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(132,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/CollisionSystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(43,5):
+  Diagnóstico en la función 'T &ComponentManager::GetComponent(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(137,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/CollisionSystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(43,5):
+  Diagnóstico en la función 'T &ComponentManager::GetComponent(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(142,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/CollisionSystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(43,5):
+  Diagnóstico en la función 'T &ComponentManager::GetComponent(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(147,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/CollisionSystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(43,5):
+  Diagnóstico en la función 'T &ComponentManager::GetComponent(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(152,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/CollisionSystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(43,5):
+  Diagnóstico en la función 'T &ComponentManager::GetComponent(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(162,2): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/CollisionSystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(47,21):
+  Diagnóstico en la función 'std::shared_ptr<_Ty> ComponentManager::GetComponentPointer(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(167,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/CollisionSystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(47,21):
+  Diagnóstico en la función 'std::shared_ptr<_Ty> ComponentManager::GetComponentPointer(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(181,2): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/CollisionSystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(51,7):
+  Diagnóstico en la función 'bool ComponentManager::HasComponent(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(189,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/CollisionSystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(51,7):
+  Diagnóstico en la función 'bool ComponentManager::HasComponent(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(197,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/CollisionSystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(51,7):
+  Diagnóstico en la función 'bool ComponentManager::HasComponent(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\Engine\Engine.h(10,7): warning C4099: 'GLFWwindow': nombre de tipo visto anteriormente usando 'struct' ahora se ve usando 'class'
+  (compilando archivo de origen "ECS/Systems/CollisionSystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\Dependencies\Include\ImGui\imgui_impl_glfw.h(24,8):
+  vea la declaración de 'GLFWwindow'
+  
+  EventManager.cpp
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(67,2): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/EventManager.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(39,7):
+  Diagnóstico en la función 'void ComponentManager::AddComponent(EntityID,T &)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(72,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/EventManager.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(39,7):
+  Diagnóstico en la función 'void ComponentManager::AddComponent(EntityID,T &)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(77,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/EventManager.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(39,7):
+  Diagnóstico en la función 'void ComponentManager::AddComponent(EntityID,T &)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(82,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/EventManager.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(39,7):
+  Diagnóstico en la función 'void ComponentManager::AddComponent(EntityID,T &)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(87,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/EventManager.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(39,7):
+  Diagnóstico en la función 'void ComponentManager::AddComponent(EntityID,T &)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(92,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/EventManager.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(39,7):
+  Diagnóstico en la función 'void ComponentManager::AddComponent(EntityID,T &)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(97,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/EventManager.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(39,7):
+  Diagnóstico en la función 'void ComponentManager::AddComponent(EntityID,T &)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(102,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/EventManager.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(39,7):
+  Diagnóstico en la función 'void ComponentManager::AddComponent(EntityID,T &)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(107,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/EventManager.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(39,7):
+  Diagnóstico en la función 'void ComponentManager::AddComponent(EntityID,T &)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(117,2): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/EventManager.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(43,5):
+  Diagnóstico en la función 'T &ComponentManager::GetComponent(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(122,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/EventManager.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(43,5):
+  Diagnóstico en la función 'T &ComponentManager::GetComponent(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(127,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/EventManager.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(43,5):
+  Diagnóstico en la función 'T &ComponentManager::GetComponent(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(132,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/EventManager.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(43,5):
+  Diagnóstico en la función 'T &ComponentManager::GetComponent(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(137,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/EventManager.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(43,5):
+  Diagnóstico en la función 'T &ComponentManager::GetComponent(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(142,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/EventManager.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(43,5):
+  Diagnóstico en la función 'T &ComponentManager::GetComponent(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(147,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/EventManager.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(43,5):
+  Diagnóstico en la función 'T &ComponentManager::GetComponent(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(152,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/EventManager.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(43,5):
+  Diagnóstico en la función 'T &ComponentManager::GetComponent(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(162,2): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/EventManager.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(47,21):
+  Diagnóstico en la función 'std::shared_ptr<_Ty> ComponentManager::GetComponentPointer(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(167,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/EventManager.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(47,21):
+  Diagnóstico en la función 'std::shared_ptr<_Ty> ComponentManager::GetComponentPointer(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(181,2): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/EventManager.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(51,7):
+  Diagnóstico en la función 'bool ComponentManager::HasComponent(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(189,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/EventManager.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(51,7):
+  Diagnóstico en la función 'bool ComponentManager::HasComponent(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(197,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/EventManager.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(51,7):
+  Diagnóstico en la función 'bool ComponentManager::HasComponent(EntityID)' generada por el compilador
+  
+  LevelSystem.cpp
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(67,2): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/LevelSystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(39,7):
+  Diagnóstico en la función 'void ComponentManager::AddComponent(EntityID,T &)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(72,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/LevelSystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(39,7):
+  Diagnóstico en la función 'void ComponentManager::AddComponent(EntityID,T &)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(77,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/LevelSystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(39,7):
+  Diagnóstico en la función 'void ComponentManager::AddComponent(EntityID,T &)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(82,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/LevelSystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(39,7):
+  Diagnóstico en la función 'void ComponentManager::AddComponent(EntityID,T &)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(87,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/LevelSystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(39,7):
+  Diagnóstico en la función 'void ComponentManager::AddComponent(EntityID,T &)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(92,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/LevelSystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(39,7):
+  Diagnóstico en la función 'void ComponentManager::AddComponent(EntityID,T &)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(97,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/LevelSystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(39,7):
+  Diagnóstico en la función 'void ComponentManager::AddComponent(EntityID,T &)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(102,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/LevelSystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(39,7):
+  Diagnóstico en la función 'void ComponentManager::AddComponent(EntityID,T &)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(107,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/LevelSystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(39,7):
+  Diagnóstico en la función 'void ComponentManager::AddComponent(EntityID,T &)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(117,2): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/LevelSystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(43,5):
+  Diagnóstico en la función 'T &ComponentManager::GetComponent(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(122,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/LevelSystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(43,5):
+  Diagnóstico en la función 'T &ComponentManager::GetComponent(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(127,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/LevelSystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(43,5):
+  Diagnóstico en la función 'T &ComponentManager::GetComponent(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(132,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/LevelSystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(43,5):
+  Diagnóstico en la función 'T &ComponentManager::GetComponent(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(137,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/LevelSystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(43,5):
+  Diagnóstico en la función 'T &ComponentManager::GetComponent(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(142,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/LevelSystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(43,5):
+  Diagnóstico en la función 'T &ComponentManager::GetComponent(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(147,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/LevelSystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(43,5):
+  Diagnóstico en la función 'T &ComponentManager::GetComponent(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(152,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/LevelSystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(43,5):
+  Diagnóstico en la función 'T &ComponentManager::GetComponent(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(162,2): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/LevelSystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(47,21):
+  Diagnóstico en la función 'std::shared_ptr<_Ty> ComponentManager::GetComponentPointer(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(167,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/LevelSystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(47,21):
+  Diagnóstico en la función 'std::shared_ptr<_Ty> ComponentManager::GetComponentPointer(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(181,2): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/LevelSystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(51,7):
+  Diagnóstico en la función 'bool ComponentManager::HasComponent(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(189,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/LevelSystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(51,7):
+  Diagnóstico en la función 'bool ComponentManager::HasComponent(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(197,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/LevelSystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(51,7):
+  Diagnóstico en la función 'bool ComponentManager::HasComponent(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\Engine\Engine.h(10,7): warning C4099: 'GLFWwindow': nombre de tipo visto anteriormente usando 'struct' ahora se ve usando 'class'
+  (compilando archivo de origen "ECS/Systems/LevelSystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\Dependencies\Include\ImGui\imgui_impl_glfw.h(24,8):
+  vea la declaración de 'GLFWwindow'
+  
+  PhysicsSystems.cpp
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(67,2): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/PhysicsSystems.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(39,7):
+  Diagnóstico en la función 'void ComponentManager::AddComponent(EntityID,T &)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(72,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/PhysicsSystems.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(39,7):
+  Diagnóstico en la función 'void ComponentManager::AddComponent(EntityID,T &)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(77,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/PhysicsSystems.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(39,7):
+  Diagnóstico en la función 'void ComponentManager::AddComponent(EntityID,T &)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(82,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/PhysicsSystems.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(39,7):
+  Diagnóstico en la función 'void ComponentManager::AddComponent(EntityID,T &)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(87,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/PhysicsSystems.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(39,7):
+  Diagnóstico en la función 'void ComponentManager::AddComponent(EntityID,T &)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(92,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/PhysicsSystems.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(39,7):
+  Diagnóstico en la función 'void ComponentManager::AddComponent(EntityID,T &)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(97,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/PhysicsSystems.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(39,7):
+  Diagnóstico en la función 'void ComponentManager::AddComponent(EntityID,T &)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(102,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/PhysicsSystems.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(39,7):
+  Diagnóstico en la función 'void ComponentManager::AddComponent(EntityID,T &)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(107,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/PhysicsSystems.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(39,7):
+  Diagnóstico en la función 'void ComponentManager::AddComponent(EntityID,T &)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(117,2): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/PhysicsSystems.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(43,5):
+  Diagnóstico en la función 'T &ComponentManager::GetComponent(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(122,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/PhysicsSystems.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(43,5):
+  Diagnóstico en la función 'T &ComponentManager::GetComponent(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(127,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/PhysicsSystems.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(43,5):
+  Diagnóstico en la función 'T &ComponentManager::GetComponent(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(132,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/PhysicsSystems.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(43,5):
+  Diagnóstico en la función 'T &ComponentManager::GetComponent(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(137,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/PhysicsSystems.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(43,5):
+  Diagnóstico en la función 'T &ComponentManager::GetComponent(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(142,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/PhysicsSystems.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(43,5):
+  Diagnóstico en la función 'T &ComponentManager::GetComponent(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(147,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/PhysicsSystems.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(43,5):
+  Diagnóstico en la función 'T &ComponentManager::GetComponent(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(152,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/PhysicsSystems.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(43,5):
+  Diagnóstico en la función 'T &ComponentManager::GetComponent(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(162,2): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/PhysicsSystems.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(47,21):
+  Diagnóstico en la función 'std::shared_ptr<_Ty> ComponentManager::GetComponentPointer(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(167,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/PhysicsSystems.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(47,21):
+  Diagnóstico en la función 'std::shared_ptr<_Ty> ComponentManager::GetComponentPointer(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(181,2): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/PhysicsSystems.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(51,7):
+  Diagnóstico en la función 'bool ComponentManager::HasComponent(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(189,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/PhysicsSystems.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(51,7):
+  Diagnóstico en la función 'bool ComponentManager::HasComponent(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(197,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/PhysicsSystems.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(51,7):
+  Diagnóstico en la función 'bool ComponentManager::HasComponent(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\Engine\Engine.h(10,7): warning C4099: 'GLFWwindow': nombre de tipo visto anteriormente usando 'struct' ahora se ve usando 'class'
+  (compilando archivo de origen "ECS/Systems/PhysicsSystems.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\Dependencies\Include\ImGui\imgui_impl_glfw.h(24,8):
+  vea la declaración de 'GLFWwindow'
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ECS\Systems\PhysicsSystems.cpp(38,31): warning C4244: '+=': conversión de 'double' a 'T'; posible pérdida de datos
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ECS\Systems\PhysicsSystems.cpp(38,31): warning C4244:         with
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ECS\Systems\PhysicsSystems.cpp(38,31): warning C4244:         [
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ECS\Systems\PhysicsSystems.cpp(38,31): warning C4244:             T=float
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ECS\Systems\PhysicsSystems.cpp(38,31): warning C4244:         ]
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ECS\Systems\PhysicsSystems.cpp(39,31): warning C4244: '+=': conversión de 'double' a 'T'; posible pérdida de datos
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ECS\Systems\PhysicsSystems.cpp(39,31): warning C4244:         with
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ECS\Systems\PhysicsSystems.cpp(39,31): warning C4244:         [
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ECS\Systems\PhysicsSystems.cpp(39,31): warning C4244:             T=float
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ECS\Systems\PhysicsSystems.cpp(39,31): warning C4244:         ]
+  PlayerSystem.cpp
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(67,2): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/PlayerSystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(39,7):
+  Diagnóstico en la función 'void ComponentManager::AddComponent(EntityID,T &)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(72,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/PlayerSystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(39,7):
+  Diagnóstico en la función 'void ComponentManager::AddComponent(EntityID,T &)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(77,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/PlayerSystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(39,7):
+  Diagnóstico en la función 'void ComponentManager::AddComponent(EntityID,T &)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(82,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/PlayerSystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(39,7):
+  Diagnóstico en la función 'void ComponentManager::AddComponent(EntityID,T &)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(87,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/PlayerSystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(39,7):
+  Diagnóstico en la función 'void ComponentManager::AddComponent(EntityID,T &)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(92,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/PlayerSystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(39,7):
+  Diagnóstico en la función 'void ComponentManager::AddComponent(EntityID,T &)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(97,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/PlayerSystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(39,7):
+  Diagnóstico en la función 'void ComponentManager::AddComponent(EntityID,T &)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(102,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/PlayerSystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(39,7):
+  Diagnóstico en la función 'void ComponentManager::AddComponent(EntityID,T &)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(107,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/PlayerSystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(39,7):
+  Diagnóstico en la función 'void ComponentManager::AddComponent(EntityID,T &)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(117,2): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/PlayerSystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(43,5):
+  Diagnóstico en la función 'T &ComponentManager::GetComponent(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(122,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/PlayerSystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(43,5):
+  Diagnóstico en la función 'T &ComponentManager::GetComponent(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(127,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/PlayerSystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(43,5):
+  Diagnóstico en la función 'T &ComponentManager::GetComponent(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(132,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/PlayerSystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(43,5):
+  Diagnóstico en la función 'T &ComponentManager::GetComponent(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(137,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/PlayerSystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(43,5):
+  Diagnóstico en la función 'T &ComponentManager::GetComponent(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(142,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/PlayerSystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(43,5):
+  Diagnóstico en la función 'T &ComponentManager::GetComponent(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(147,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/PlayerSystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(43,5):
+  Diagnóstico en la función 'T &ComponentManager::GetComponent(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(152,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/PlayerSystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(43,5):
+  Diagnóstico en la función 'T &ComponentManager::GetComponent(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(162,2): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/PlayerSystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(47,21):
+  Diagnóstico en la función 'std::shared_ptr<_Ty> ComponentManager::GetComponentPointer(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(167,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/PlayerSystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(47,21):
+  Diagnóstico en la función 'std::shared_ptr<_Ty> ComponentManager::GetComponentPointer(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(181,2): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/PlayerSystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(51,7):
+  Diagnóstico en la función 'bool ComponentManager::HasComponent(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(189,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/PlayerSystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(51,7):
+  Diagnóstico en la función 'bool ComponentManager::HasComponent(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(197,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/PlayerSystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(51,7):
+  Diagnóstico en la función 'bool ComponentManager::HasComponent(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\Engine\Engine.h(10,7): warning C4099: 'GLFWwindow': nombre de tipo visto anteriormente usando 'struct' ahora se ve usando 'class'
+  (compilando archivo de origen "ECS/Systems/PlayerSystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\Dependencies\Include\ImGui\imgui_impl_glfw.h(24,8):
+  vea la declaración de 'GLFWwindow'
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ECS\Systems\PlayerSystem.cpp(51,46): warning C4244: '-=': conversión de 'double' a 'T'; posible pérdida de datos
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ECS\Systems\PlayerSystem.cpp(51,46): warning C4244:         with
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ECS\Systems\PlayerSystem.cpp(51,46): warning C4244:         [
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ECS\Systems\PlayerSystem.cpp(51,46): warning C4244:             T=float
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ECS\Systems\PlayerSystem.cpp(51,46): warning C4244:         ]
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ECS\Systems\PlayerSystem.cpp(64,46): warning C4244: '+=': conversión de 'double' a 'T'; posible pérdida de datos
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ECS\Systems\PlayerSystem.cpp(64,46): warning C4244:         with
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ECS\Systems\PlayerSystem.cpp(64,46): warning C4244:         [
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ECS\Systems\PlayerSystem.cpp(64,46): warning C4244:             T=float
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ECS\Systems\PlayerSystem.cpp(64,46): warning C4244:         ]
+  PowerUpSystem.cpp
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(67,2): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/PowerUpSystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(39,7):
+  Diagnóstico en la función 'void ComponentManager::AddComponent(EntityID,T &)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(72,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/PowerUpSystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(39,7):
+  Diagnóstico en la función 'void ComponentManager::AddComponent(EntityID,T &)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(77,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/PowerUpSystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(39,7):
+  Diagnóstico en la función 'void ComponentManager::AddComponent(EntityID,T &)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(82,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/PowerUpSystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(39,7):
+  Diagnóstico en la función 'void ComponentManager::AddComponent(EntityID,T &)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(87,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/PowerUpSystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(39,7):
+  Diagnóstico en la función 'void ComponentManager::AddComponent(EntityID,T &)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(92,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/PowerUpSystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(39,7):
+  Diagnóstico en la función 'void ComponentManager::AddComponent(EntityID,T &)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(97,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/PowerUpSystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(39,7):
+  Diagnóstico en la función 'void ComponentManager::AddComponent(EntityID,T &)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(102,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/PowerUpSystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(39,7):
+  Diagnóstico en la función 'void ComponentManager::AddComponent(EntityID,T &)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(107,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/PowerUpSystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(39,7):
+  Diagnóstico en la función 'void ComponentManager::AddComponent(EntityID,T &)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(117,2): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/PowerUpSystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(43,5):
+  Diagnóstico en la función 'T &ComponentManager::GetComponent(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(122,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/PowerUpSystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(43,5):
+  Diagnóstico en la función 'T &ComponentManager::GetComponent(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(127,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/PowerUpSystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(43,5):
+  Diagnóstico en la función 'T &ComponentManager::GetComponent(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(132,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/PowerUpSystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(43,5):
+  Diagnóstico en la función 'T &ComponentManager::GetComponent(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(137,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/PowerUpSystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(43,5):
+  Diagnóstico en la función 'T &ComponentManager::GetComponent(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(142,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/PowerUpSystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(43,5):
+  Diagnóstico en la función 'T &ComponentManager::GetComponent(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(147,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/PowerUpSystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(43,5):
+  Diagnóstico en la función 'T &ComponentManager::GetComponent(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(152,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/PowerUpSystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(43,5):
+  Diagnóstico en la función 'T &ComponentManager::GetComponent(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(162,2): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/PowerUpSystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(47,21):
+  Diagnóstico en la función 'std::shared_ptr<_Ty> ComponentManager::GetComponentPointer(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(167,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/PowerUpSystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(47,21):
+  Diagnóstico en la función 'std::shared_ptr<_Ty> ComponentManager::GetComponentPointer(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(181,2): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/PowerUpSystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(51,7):
+  Diagnóstico en la función 'bool ComponentManager::HasComponent(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(189,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/PowerUpSystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(51,7):
+  Diagnóstico en la función 'bool ComponentManager::HasComponent(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(197,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/PowerUpSystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(51,7):
+  Diagnóstico en la función 'bool ComponentManager::HasComponent(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ECS\Systems\PowerUpSystem.cpp(77,13): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ECS\Systems\PowerUpSystem.cpp(81,25): warning C4267: 'inicializando': conversión de 'size_t' a 'unsigned int'; posible pérdida de datos
+  RenderSystem.cpp
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(67,2): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/RenderSystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(39,7):
+  Diagnóstico en la función 'void ComponentManager::AddComponent(EntityID,T &)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(72,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/RenderSystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(39,7):
+  Diagnóstico en la función 'void ComponentManager::AddComponent(EntityID,T &)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(77,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/RenderSystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(39,7):
+  Diagnóstico en la función 'void ComponentManager::AddComponent(EntityID,T &)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(82,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/RenderSystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(39,7):
+  Diagnóstico en la función 'void ComponentManager::AddComponent(EntityID,T &)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(87,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/RenderSystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(39,7):
+  Diagnóstico en la función 'void ComponentManager::AddComponent(EntityID,T &)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(92,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/RenderSystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(39,7):
+  Diagnóstico en la función 'void ComponentManager::AddComponent(EntityID,T &)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(97,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/RenderSystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(39,7):
+  Diagnóstico en la función 'void ComponentManager::AddComponent(EntityID,T &)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(102,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/RenderSystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(39,7):
+  Diagnóstico en la función 'void ComponentManager::AddComponent(EntityID,T &)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(107,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/RenderSystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(39,7):
+  Diagnóstico en la función 'void ComponentManager::AddComponent(EntityID,T &)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(117,2): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/RenderSystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(43,5):
+  Diagnóstico en la función 'T &ComponentManager::GetComponent(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(122,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/RenderSystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(43,5):
+  Diagnóstico en la función 'T &ComponentManager::GetComponent(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(127,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/RenderSystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(43,5):
+  Diagnóstico en la función 'T &ComponentManager::GetComponent(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(132,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/RenderSystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(43,5):
+  Diagnóstico en la función 'T &ComponentManager::GetComponent(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(137,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/RenderSystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(43,5):
+  Diagnóstico en la función 'T &ComponentManager::GetComponent(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(142,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/RenderSystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(43,5):
+  Diagnóstico en la función 'T &ComponentManager::GetComponent(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(147,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/RenderSystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(43,5):
+  Diagnóstico en la función 'T &ComponentManager::GetComponent(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(152,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/RenderSystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(43,5):
+  Diagnóstico en la función 'T &ComponentManager::GetComponent(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(162,2): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/RenderSystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(47,21):
+  Diagnóstico en la función 'std::shared_ptr<_Ty> ComponentManager::GetComponentPointer(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(167,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/RenderSystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(47,21):
+  Diagnóstico en la función 'std::shared_ptr<_Ty> ComponentManager::GetComponentPointer(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(181,2): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/RenderSystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(51,7):
+  Diagnóstico en la función 'bool ComponentManager::HasComponent(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(189,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/RenderSystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(51,7):
+  Diagnóstico en la función 'bool ComponentManager::HasComponent(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(197,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/RenderSystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(51,7):
+  Diagnóstico en la función 'bool ComponentManager::HasComponent(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\Engine\Engine.h(10,7): warning C4099: 'GLFWwindow': nombre de tipo visto anteriormente usando 'struct' ahora se ve usando 'class'
+  (compilando archivo de origen "ECS/Systems/RenderSystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\Dependencies\Include\ImGui\imgui_impl_glfw.h(24,8):
+  vea la declaración de 'GLFWwindow'
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ECS\Systems\RenderSystem.cpp(84,91): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  System.cpp
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(67,2): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/System.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(39,7):
+  Diagnóstico en la función 'void ComponentManager::AddComponent(EntityID,T &)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(72,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/System.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(39,7):
+  Diagnóstico en la función 'void ComponentManager::AddComponent(EntityID,T &)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(77,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/System.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(39,7):
+  Diagnóstico en la función 'void ComponentManager::AddComponent(EntityID,T &)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(82,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/System.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(39,7):
+  Diagnóstico en la función 'void ComponentManager::AddComponent(EntityID,T &)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(87,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/System.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(39,7):
+  Diagnóstico en la función 'void ComponentManager::AddComponent(EntityID,T &)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(92,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/System.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(39,7):
+  Diagnóstico en la función 'void ComponentManager::AddComponent(EntityID,T &)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(97,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/System.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(39,7):
+  Diagnóstico en la función 'void ComponentManager::AddComponent(EntityID,T &)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(102,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/System.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(39,7):
+  Diagnóstico en la función 'void ComponentManager::AddComponent(EntityID,T &)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(107,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/System.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(39,7):
+  Diagnóstico en la función 'void ComponentManager::AddComponent(EntityID,T &)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(117,2): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/System.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(43,5):
+  Diagnóstico en la función 'T &ComponentManager::GetComponent(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(122,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/System.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(43,5):
+  Diagnóstico en la función 'T &ComponentManager::GetComponent(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(127,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/System.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(43,5):
+  Diagnóstico en la función 'T &ComponentManager::GetComponent(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(132,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/System.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(43,5):
+  Diagnóstico en la función 'T &ComponentManager::GetComponent(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(137,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/System.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(43,5):
+  Diagnóstico en la función 'T &ComponentManager::GetComponent(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(142,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/System.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(43,5):
+  Diagnóstico en la función 'T &ComponentManager::GetComponent(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(147,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/System.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(43,5):
+  Diagnóstico en la función 'T &ComponentManager::GetComponent(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(152,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/System.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(43,5):
+  Diagnóstico en la función 'T &ComponentManager::GetComponent(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(162,2): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/System.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(47,21):
+  Diagnóstico en la función 'std::shared_ptr<_Ty> ComponentManager::GetComponentPointer(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(167,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/System.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(47,21):
+  Diagnóstico en la función 'std::shared_ptr<_Ty> ComponentManager::GetComponentPointer(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(181,2): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/System.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(51,7):
+  Diagnóstico en la función 'bool ComponentManager::HasComponent(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(189,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/System.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(51,7):
+  Diagnóstico en la función 'bool ComponentManager::HasComponent(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(197,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/System.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(51,7):
+  Diagnóstico en la función 'bool ComponentManager::HasComponent(EntityID)' generada por el compilador
+  
+  UISystem.cpp
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(67,2): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/UISystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(39,7):
+  Diagnóstico en la función 'void ComponentManager::AddComponent(EntityID,T &)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(72,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/UISystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(39,7):
+  Diagnóstico en la función 'void ComponentManager::AddComponent(EntityID,T &)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(77,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/UISystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(39,7):
+  Diagnóstico en la función 'void ComponentManager::AddComponent(EntityID,T &)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(82,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/UISystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(39,7):
+  Diagnóstico en la función 'void ComponentManager::AddComponent(EntityID,T &)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(87,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/UISystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(39,7):
+  Diagnóstico en la función 'void ComponentManager::AddComponent(EntityID,T &)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(92,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/UISystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(39,7):
+  Diagnóstico en la función 'void ComponentManager::AddComponent(EntityID,T &)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(97,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/UISystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(39,7):
+  Diagnóstico en la función 'void ComponentManager::AddComponent(EntityID,T &)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(102,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/UISystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(39,7):
+  Diagnóstico en la función 'void ComponentManager::AddComponent(EntityID,T &)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(107,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/UISystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(39,7):
+  Diagnóstico en la función 'void ComponentManager::AddComponent(EntityID,T &)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(117,2): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/UISystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(43,5):
+  Diagnóstico en la función 'T &ComponentManager::GetComponent(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(122,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/UISystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(43,5):
+  Diagnóstico en la función 'T &ComponentManager::GetComponent(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(127,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/UISystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(43,5):
+  Diagnóstico en la función 'T &ComponentManager::GetComponent(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(132,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/UISystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(43,5):
+  Diagnóstico en la función 'T &ComponentManager::GetComponent(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(137,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/UISystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(43,5):
+  Diagnóstico en la función 'T &ComponentManager::GetComponent(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(142,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/UISystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(43,5):
+  Diagnóstico en la función 'T &ComponentManager::GetComponent(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(147,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/UISystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(43,5):
+  Diagnóstico en la función 'T &ComponentManager::GetComponent(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(152,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/UISystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(43,5):
+  Diagnóstico en la función 'T &ComponentManager::GetComponent(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(162,2): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/UISystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(47,21):
+  Diagnóstico en la función 'std::shared_ptr<_Ty> ComponentManager::GetComponentPointer(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(167,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/UISystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(47,21):
+  Diagnóstico en la función 'std::shared_ptr<_Ty> ComponentManager::GetComponentPointer(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(181,2): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/UISystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(51,7):
+  Diagnóstico en la función 'bool ComponentManager::HasComponent(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(189,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/UISystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(51,7):
+  Diagnóstico en la función 'bool ComponentManager::HasComponent(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(197,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "ECS/Systems/UISystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(51,7):
+  Diagnóstico en la función 'bool ComponentManager::HasComponent(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\Engine\Engine.h(10,7): warning C4099: 'GLFWwindow': nombre de tipo visto anteriormente usando 'struct' ahora se ve usando 'class'
+  (compilando archivo de origen "ECS/Systems/UISystem.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\Dependencies\Include\ImGui\imgui_impl_glfw.h(24,8):
+  vea la declaración de 'GLFWwindow'
+  
+  Engine.cpp
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(67,2): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "Engine/Engine.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(39,7):
+  Diagnóstico en la función 'void ComponentManager::AddComponent(EntityID,T &)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(72,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "Engine/Engine.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(39,7):
+  Diagnóstico en la función 'void ComponentManager::AddComponent(EntityID,T &)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(77,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "Engine/Engine.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(39,7):
+  Diagnóstico en la función 'void ComponentManager::AddComponent(EntityID,T &)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(82,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "Engine/Engine.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(39,7):
+  Diagnóstico en la función 'void ComponentManager::AddComponent(EntityID,T &)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(87,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "Engine/Engine.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(39,7):
+  Diagnóstico en la función 'void ComponentManager::AddComponent(EntityID,T &)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(92,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "Engine/Engine.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(39,7):
+  Diagnóstico en la función 'void ComponentManager::AddComponent(EntityID,T &)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(97,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "Engine/Engine.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(39,7):
+  Diagnóstico en la función 'void ComponentManager::AddComponent(EntityID,T &)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(102,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "Engine/Engine.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(39,7):
+  Diagnóstico en la función 'void ComponentManager::AddComponent(EntityID,T &)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(107,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "Engine/Engine.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(39,7):
+  Diagnóstico en la función 'void ComponentManager::AddComponent(EntityID,T &)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(117,2): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "Engine/Engine.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(43,5):
+  Diagnóstico en la función 'T &ComponentManager::GetComponent(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(122,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "Engine/Engine.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(43,5):
+  Diagnóstico en la función 'T &ComponentManager::GetComponent(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(127,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "Engine/Engine.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(43,5):
+  Diagnóstico en la función 'T &ComponentManager::GetComponent(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(132,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "Engine/Engine.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(43,5):
+  Diagnóstico en la función 'T &ComponentManager::GetComponent(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(137,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "Engine/Engine.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(43,5):
+  Diagnóstico en la función 'T &ComponentManager::GetComponent(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(142,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "Engine/Engine.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(43,5):
+  Diagnóstico en la función 'T &ComponentManager::GetComponent(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(147,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "Engine/Engine.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(43,5):
+  Diagnóstico en la función 'T &ComponentManager::GetComponent(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(152,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "Engine/Engine.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(43,5):
+  Diagnóstico en la función 'T &ComponentManager::GetComponent(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(162,2): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "Engine/Engine.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(47,21):
+  Diagnóstico en la función 'std::shared_ptr<_Ty> ComponentManager::GetComponentPointer(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(167,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "Engine/Engine.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(47,21):
+  Diagnóstico en la función 'std::shared_ptr<_Ty> ComponentManager::GetComponentPointer(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(181,2): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "Engine/Engine.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(51,7):
+  Diagnóstico en la función 'bool ComponentManager::HasComponent(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(189,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "Engine/Engine.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(51,7):
+  Diagnóstico en la función 'bool ComponentManager::HasComponent(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(197,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "Engine/Engine.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(51,7):
+  Diagnóstico en la función 'bool ComponentManager::HasComponent(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\Engine\Engine.h(10,7): warning C4099: 'GLFWwindow': nombre de tipo visto anteriormente usando 'struct' ahora se ve usando 'class'
+  (compilando archivo de origen "Engine/Engine.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\Dependencies\Include\ImGui\imgui_impl_glfw.h(24,8):
+  vea la declaración de 'GLFWwindow'
+  
+  Main.cpp
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(67,2): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "Main.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(39,7):
+  Diagnóstico en la función 'void ComponentManager::AddComponent(EntityID,T &)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(72,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "Main.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(39,7):
+  Diagnóstico en la función 'void ComponentManager::AddComponent(EntityID,T &)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(77,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "Main.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(39,7):
+  Diagnóstico en la función 'void ComponentManager::AddComponent(EntityID,T &)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(82,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "Main.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(39,7):
+  Diagnóstico en la función 'void ComponentManager::AddComponent(EntityID,T &)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(87,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "Main.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(39,7):
+  Diagnóstico en la función 'void ComponentManager::AddComponent(EntityID,T &)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(92,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "Main.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(39,7):
+  Diagnóstico en la función 'void ComponentManager::AddComponent(EntityID,T &)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(97,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "Main.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(39,7):
+  Diagnóstico en la función 'void ComponentManager::AddComponent(EntityID,T &)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(102,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "Main.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(39,7):
+  Diagnóstico en la función 'void ComponentManager::AddComponent(EntityID,T &)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(107,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "Main.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(39,7):
+  Diagnóstico en la función 'void ComponentManager::AddComponent(EntityID,T &)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(117,2): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "Main.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(43,5):
+  Diagnóstico en la función 'T &ComponentManager::GetComponent(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(122,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "Main.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(43,5):
+  Diagnóstico en la función 'T &ComponentManager::GetComponent(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(127,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "Main.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(43,5):
+  Diagnóstico en la función 'T &ComponentManager::GetComponent(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(132,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "Main.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(43,5):
+  Diagnóstico en la función 'T &ComponentManager::GetComponent(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(137,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "Main.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(43,5):
+  Diagnóstico en la función 'T &ComponentManager::GetComponent(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(142,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "Main.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(43,5):
+  Diagnóstico en la función 'T &ComponentManager::GetComponent(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(147,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "Main.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(43,5):
+  Diagnóstico en la función 'T &ComponentManager::GetComponent(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(152,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "Main.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(43,5):
+  Diagnóstico en la función 'T &ComponentManager::GetComponent(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(162,2): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "Main.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(47,21):
+  Diagnóstico en la función 'std::shared_ptr<_Ty> ComponentManager::GetComponentPointer(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(167,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "Main.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(47,21):
+  Diagnóstico en la función 'std::shared_ptr<_Ty> ComponentManager::GetComponentPointer(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(181,2): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "Main.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(51,7):
+  Diagnóstico en la función 'bool ComponentManager::HasComponent(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(189,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "Main.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(51,7):
+  Diagnóstico en la función 'bool ComponentManager::HasComponent(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(197,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "Main.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(51,7):
+  Diagnóstico en la función 'bool ComponentManager::HasComponent(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\Engine\Engine.h(10,7): warning C4099: 'GLFWwindow': nombre de tipo visto anteriormente usando 'struct' ahora se ve usando 'class'
+  (compilando archivo de origen "Main.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\Dependencies\Include\ImGui\imgui_impl_glfw.h(24,8):
+  vea la declaración de 'GLFWwindow'
+  
+  Buffer.cpp
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\OpenGL\Buffer\Buffer.cpp(58,45): warning C4267: 'argumento': conversión de 'size_t' a 'GLsizei'; posible pérdida de datos
+  Shader.cpp
+  Texture.cpp
+  Scene.cpp
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(67,2): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "Scene/Scene.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(39,7):
+  Diagnóstico en la función 'void ComponentManager::AddComponent(EntityID,T &)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(72,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "Scene/Scene.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(39,7):
+  Diagnóstico en la función 'void ComponentManager::AddComponent(EntityID,T &)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(77,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "Scene/Scene.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(39,7):
+  Diagnóstico en la función 'void ComponentManager::AddComponent(EntityID,T &)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(82,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "Scene/Scene.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(39,7):
+  Diagnóstico en la función 'void ComponentManager::AddComponent(EntityID,T &)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(87,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "Scene/Scene.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(39,7):
+  Diagnóstico en la función 'void ComponentManager::AddComponent(EntityID,T &)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(92,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "Scene/Scene.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(39,7):
+  Diagnóstico en la función 'void ComponentManager::AddComponent(EntityID,T &)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(97,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "Scene/Scene.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(39,7):
+  Diagnóstico en la función 'void ComponentManager::AddComponent(EntityID,T &)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(102,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "Scene/Scene.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(39,7):
+  Diagnóstico en la función 'void ComponentManager::AddComponent(EntityID,T &)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(107,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "Scene/Scene.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(39,7):
+  Diagnóstico en la función 'void ComponentManager::AddComponent(EntityID,T &)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(117,2): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "Scene/Scene.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(43,5):
+  Diagnóstico en la función 'T &ComponentManager::GetComponent(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(122,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "Scene/Scene.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(43,5):
+  Diagnóstico en la función 'T &ComponentManager::GetComponent(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(127,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "Scene/Scene.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(43,5):
+  Diagnóstico en la función 'T &ComponentManager::GetComponent(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(132,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "Scene/Scene.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(43,5):
+  Diagnóstico en la función 'T &ComponentManager::GetComponent(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(137,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "Scene/Scene.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(43,5):
+  Diagnóstico en la función 'T &ComponentManager::GetComponent(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(142,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "Scene/Scene.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(43,5):
+  Diagnóstico en la función 'T &ComponentManager::GetComponent(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(147,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "Scene/Scene.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(43,5):
+  Diagnóstico en la función 'T &ComponentManager::GetComponent(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(152,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "Scene/Scene.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(43,5):
+  Diagnóstico en la función 'T &ComponentManager::GetComponent(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(162,2): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "Scene/Scene.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(47,21):
+  Diagnóstico en la función 'std::shared_ptr<_Ty> ComponentManager::GetComponentPointer(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(167,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "Scene/Scene.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(47,21):
+  Diagnóstico en la función 'std::shared_ptr<_Ty> ComponentManager::GetComponentPointer(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(181,2): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "Scene/Scene.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(51,7):
+  Diagnóstico en la función 'bool ComponentManager::HasComponent(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(189,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "Scene/Scene.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(51,7):
+  Diagnóstico en la función 'bool ComponentManager::HasComponent(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(197,7): warning C4984: "if constexpr" es una extensión del lenguaje C++17
+  (compilando archivo de origen "Scene/Scene.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\ComponentManager.h(51,7):
+  Diagnóstico en la función 'bool ComponentManager::HasComponent(EntityID)' generada por el compilador
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\Engine\Engine.h(10,7): warning C4099: 'GLFWwindow': nombre de tipo visto anteriormente usando 'struct' ahora se ve usando 'class'
+  (compilando archivo de origen "Scene/Scene.cpp")
+  C:\Users\Carlos\Desktop\Programacion\Arkanoid\Dependencies\Include\ImGui\imgui_impl_glfw.h(24,8):
+  vea la declaración de 'GLFWwindow'
+  
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\Scene\Scene.cpp(281,30): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\Scene\Scene.cpp(347,62): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\Scene\Scene.cpp(365,62): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\Scene\Scene.cpp(443,53): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\Scene\Scene.cpp(460,40): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\Scene\Scene.cpp(477,57): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  Vertex.cpp
+  Generando código...
+  glad.c
+C:\Users\Carlos\Desktop\Programacion\Arkanoid\glad.c(22,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+LINK : warning LNK4098: la biblioteca predeterminada'MSVCRT' entra en conflicto con otras bibliotecas; use la biblioteca /NODEFAULTLIB:biblioteca
+  Arkanoid.vcxproj -> C:\Users\Carlos\Desktop\Programacion\Arkanoid\x64\Debug\Arkanoid.exe

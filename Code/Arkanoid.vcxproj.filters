@@ -1,0 +1,401 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Archivos de origen">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Archivos de encabezado">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Archivos de recursos">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Archivos de encabezado\Engine">
+      <UniqueIdentifier>{cedcfcb8-6b72-43bf-82df-d90be66d0225}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de origen\Engine">
+      <UniqueIdentifier>{ca891757-4d4d-4c01-bc9a-be78391bb573}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de encabezado\ECS">
+      <UniqueIdentifier>{16e36778-2148-4d69-ae03-3a3e43d700c6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de encabezado\ECS\Components">
+      <UniqueIdentifier>{5288bf07-4463-4f1f-a1d7-d416841b3f1b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de encabezado\ECS\Components\RenderComponent">
+      <UniqueIdentifier>{de010c9a-549b-45d7-9e6a-b5fc6e13b04a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de encabezado\Vertex">
+      <UniqueIdentifier>{dfca9a6c-4edb-4d6d-8e88-d46172f1ed7c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de encabezado\ECS\Components\TransformComponent">
+      <UniqueIdentifier>{00a62d81-6854-4d31-a379-ea1a42c97566}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de origen\ECS">
+      <UniqueIdentifier>{9f3d4753-a2ce-43fd-b5ae-8ac9d8c47de3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de origen\ECS\Components">
+      <UniqueIdentifier>{c5e55da8-2df7-42ba-bd56-5ed730591ef5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de origen\ECS\Components\TransformComponent">
+      <UniqueIdentifier>{9b544144-d7c7-4135-9282-65523aa42a64}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de origen\ECS\Components\RigidBody">
+      <UniqueIdentifier>{1204ae36-3824-433c-a68a-44e4c14b9f15}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de encabezado\ECS\Components\RigidBody">
+      <UniqueIdentifier>{3a827654-9ae1-4863-886d-0213616bdd80}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de encabezado\OpenGl">
+      <UniqueIdentifier>{e5364b87-258b-4cf8-902a-e6edb83e743c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de origen\OpenGL">
+      <UniqueIdentifier>{2879ad6b-2577-46a7-9266-27998aef6c28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de encabezado\OpenGl\Buffer">
+      <UniqueIdentifier>{5225ef68-5741-48de-9b9d-60ee0b1cc3d9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de encabezado\OpenGl\Shader">
+      <UniqueIdentifier>{2b59f0a2-a3ef-477a-93ef-9feb2fc519b0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de origen\OpenGL\Buffer">
+      <UniqueIdentifier>{0317bc12-e92f-4fa9-b1a8-08b9c403b715}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de origen\OpenGL\Shader">
+      <UniqueIdentifier>{e1ba0f03-a97e-4656-bf9c-8fb0c2cd4882}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Data">
+      <UniqueIdentifier>{6aaf7e5c-1320-4735-b382-b6413baba2ac}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de origen\Vertex">
+      <UniqueIdentifier>{7eef6f85-b18f-40ae-939e-06c8526571a1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de origen\ECS\Components\RenderComponent">
+      <UniqueIdentifier>{3da4ab2a-bfcd-4c6c-8e7c-26aa028a4e27}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de encabezado\ECS\Systems">
+      <UniqueIdentifier>{5513a83f-ed01-499d-bded-80ba04221461}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de origen\ECS\Systems">
+      <UniqueIdentifier>{109620d6-b102-4b6c-a1bb-4c100e746644}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de encabezado\OpenGl\Texture">
+      <UniqueIdentifier>{847abec9-7641-4bc7-90d7-967709a9ff98}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de origen\OpenGL\Texture">
+      <UniqueIdentifier>{8f7a35ef-95c9-4939-bbfb-f4143a2dd73e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de origen\ECS\Components\CircleCollider">
+      <UniqueIdentifier>{f7d46394-ccf7-4d2b-8a5d-bd573802b9ab}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de encabezado\ECS\Entity">
+      <UniqueIdentifier>{75af966f-1b26-444f-a398-3865d4d2ef83}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de origen\ECS\Entity">
+      <UniqueIdentifier>{fc080bfc-aa7b-48a3-a4fc-cb5b799cecce}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de encabezado\ECS\Components\PlayerComponent">
+      <UniqueIdentifier>{984ba21b-9ec0-4bce-8668-cac10ff20e6a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de origen\ECS\Components\PlayerComponent">
+      <UniqueIdentifier>{39b5facd-8a3a-4269-8b09-35a59dfb21b3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de encabezado\ECS\Components\BrickComponent">
+      <UniqueIdentifier>{719483a0-1419-4af0-a49e-5bdca6322177}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de origen\ECS\Components\BrickComponent">
+      <UniqueIdentifier>{1c8ed7e7-91d9-41f1-b2d7-9becf898da5a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de origen\ECS\Components\PowerUpComponent">
+      <UniqueIdentifier>{ac152edf-fdad-449a-9be5-4f600423fd30}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de origen\ECS\Components\BallComponent">
+      <UniqueIdentifier>{0c0851ab-8949-4fb0-9d58-567825545d2a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de encabezado\ECS\Components\PowerUpComponent">
+      <UniqueIdentifier>{bd733944-dcc7-4ca4-a687-512941425841}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de encabezado\ECS\Components\BallComponent">
+      <UniqueIdentifier>{7e26c9d4-b946-4e35-970c-63cf56240cc8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de encabezado\ECS\Components\ColliderComponent">
+      <UniqueIdentifier>{e86a0753-807f-40c7-bf5b-0a1c2c0dd136}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de encabezado\ECS\Components\UIHealthComponent">
+      <UniqueIdentifier>{ca5a2285-90d9-44c7-9f51-ac76421ebe1c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de origen\ECS\Components\UIHealthComponent">
+      <UniqueIdentifier>{f4411944-423c-4225-9303-171f9b67067e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de encabezado\Scene">
+      <UniqueIdentifier>{55305b28-368e-4702-8152-46d45e932e1b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de origen\Scene">
+      <UniqueIdentifier>{94cb2ebe-8f2a-476c-9c1f-37cdd75fe14f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de encabezado\OpenGl\Text">
+      <UniqueIdentifier>{b1950569-3b37-4c90-8af1-414a2733bd52}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de encabezado\OpenGl\ImGui">
+      <UniqueIdentifier>{3588bbbc-8eb4-4e2e-9601-5e9c3459cd50}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de origen\OpenGL\ImGui">
+      <UniqueIdentifier>{cf5f90e0-c366-4af8-ab4d-4b7c7550f836}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Main.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="glad.c">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="Engine\Engine.cpp">
+      <Filter>Archivos de origen\Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="ECS\Components\ComponentManager.cpp">
+      <Filter>Archivos de origen\ECS\Components</Filter>
+    </ClCompile>
+    <ClCompile Include="ECS\Components\RigidBody\RigidBody.cpp">
+      <Filter>Archivos de origen\ECS\Components\RigidBody</Filter>
+    </ClCompile>
+    <ClCompile Include="OpenGL\Buffer\Buffer.cpp">
+      <Filter>Archivos de origen\OpenGL\Buffer</Filter>
+    </ClCompile>
+    <ClCompile Include="OpenGL\Shader\Shader.cpp">
+      <Filter>Archivos de origen\OpenGL\Shader</Filter>
+    </ClCompile>
+    <ClCompile Include="Vertex\Vertex.cpp">
+      <Filter>Archivos de origen\Vertex</Filter>
+    </ClCompile>
+    <ClCompile Include="ECS\Components\RenderComponent\RenderComponent.cpp">
+      <Filter>Archivos de origen\ECS\Components\RenderComponent</Filter>
+    </ClCompile>
+    <ClCompile Include="ECS\Systems\RenderSystem.cpp">
+      <Filter>Archivos de origen\ECS\Systems</Filter>
+    </ClCompile>
+    <ClCompile Include="ECS\Components\TransformComponent\TransformComponent.cpp">
+      <Filter>Archivos de origen\ECS\Components\TransformComponent</Filter>
+    </ClCompile>
+    <ClCompile Include="OpenGL\Texture\Texture.cpp">
+      <Filter>Archivos de origen\OpenGL\Texture</Filter>
+    </ClCompile>
+    <ClCompile Include="ECS\Systems\PhysicsSystems.cpp">
+      <Filter>Archivos de origen\ECS\Systems</Filter>
+    </ClCompile>
+    <ClCompile Include="ECS\Systems\CollisionSystem.cpp">
+      <Filter>Archivos de origen\ECS\Systems</Filter>
+    </ClCompile>
+    <ClCompile Include="ECS\Entities\EntityManager.cpp">
+      <Filter>Archivos de origen\ECS\Entity</Filter>
+    </ClCompile>
+    <ClCompile Include="ECS\Entities\Entity.cpp">
+      <Filter>Archivos de origen\ECS\Entity</Filter>
+    </ClCompile>
+    <ClCompile Include="ECS\Components\PlayerComponent\PlayerComponent.cpp">
+      <Filter>Archivos de origen\ECS\Components\PlayerComponent</Filter>
+    </ClCompile>
+    <ClCompile Include="ECS\Systems\PlayerSystem.cpp">
+      <Filter>Archivos de origen\ECS\Systems</Filter>
+    </ClCompile>
+    <ClCompile Include="ECS\Components\Component.cpp">
+      <Filter>Archivos de origen\ECS\Components</Filter>
+    </ClCompile>
+    <ClCompile Include="ECS\Systems\BrickSystem.cpp">
+      <Filter>Archivos de origen\ECS\Systems</Filter>
+    </ClCompile>
+    <ClCompile Include="ECS\Components\BrickComponent\BrickComponent.cpp">
+      <Filter>Archivos de origen\ECS\Components\BrickComponent</Filter>
+    </ClCompile>
+    <ClCompile Include="ECS\Systems\PowerUpSystem.cpp">
+      <Filter>Archivos de origen\ECS\Systems</Filter>
+    </ClCompile>
+    <ClCompile Include="ECS\Components\PowerUpComponent\PowerUpComponent.cpp">
+      <Filter>Archivos de origen\ECS\Components\PowerUpComponent</Filter>
+    </ClCompile>
+    <ClCompile Include="ECS\Components\BallComponent\BallComponent.cpp">
+      <Filter>Archivos de origen\ECS\Components\BallComponent</Filter>
+    </ClCompile>
+    <ClCompile Include="ECS\Systems\BallSystem.cpp">
+      <Filter>Archivos de origen\ECS\Systems</Filter>
+    </ClCompile>
+    <ClCompile Include="ECS\Systems\System.cpp">
+      <Filter>Archivos de origen\ECS\Systems</Filter>
+    </ClCompile>
+    <ClCompile Include="ECS\Systems\EventManager.cpp">
+      <Filter>Archivos de origen\ECS</Filter>
+    </ClCompile>
+    <ClCompile Include="ECS\Components\UIHealthComponent\UIHealthComponent.cpp">
+      <Filter>Archivos de origen\ECS\Components\UIHealthComponent</Filter>
+    </ClCompile>
+    <ClCompile Include="ECS\Systems\UISystem.cpp">
+      <Filter>Archivos de origen\ECS\Systems</Filter>
+    </ClCompile>
+    <ClCompile Include="Scene\Scene.cpp">
+      <Filter>Archivos de origen\Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="ECS\Systems\LevelSystem.cpp">
+      <Filter>Archivos de origen\ECS\Systems</Filter>
+    </ClCompile>
+    <ClCompile Include="Dependencies\Include\ImGui\imgui.cpp">
+      <Filter>Archivos de origen\OpenGL\ImGui</Filter>
+    </ClCompile>
+    <ClCompile Include="Dependencies\Include\ImGui\imgui_demo.cpp">
+      <Filter>Archivos de origen\OpenGL\ImGui</Filter>
+    </ClCompile>
+    <ClCompile Include="Dependencies\Include\ImGui\imgui_draw.cpp">
+      <Filter>Archivos de origen\OpenGL\ImGui</Filter>
+    </ClCompile>
+    <ClCompile Include="Dependencies\Include\ImGui\imgui_impl_glfw.cpp">
+      <Filter>Archivos de origen\OpenGL\ImGui</Filter>
+    </ClCompile>
+    <ClCompile Include="Dependencies\Include\ImGui\imgui_impl_opengl3.cpp">
+      <Filter>Archivos de origen\OpenGL\ImGui</Filter>
+    </ClCompile>
+    <ClCompile Include="Dependencies\Include\ImGui\imgui_tables.cpp">
+      <Filter>Archivos de origen\OpenGL\ImGui</Filter>
+    </ClCompile>
+    <ClCompile Include="Dependencies\Include\ImGui\imgui_widgets.cpp">
+      <Filter>Archivos de origen\OpenGL\ImGui</Filter>
+    </ClCompile>
+    <ClCompile Include="ECS\Components\Colliders\Colliders.cpp">
+      <Filter>Archivos de origen\ECS\Components\CircleCollider</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Engine\Engine.h">
+      <Filter>Archivos de encabezado\Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="ECS\Components\RenderComponent\RenderComponent.h">
+      <Filter>Archivos de encabezado\ECS\Components\RenderComponent</Filter>
+    </ClInclude>
+    <ClInclude Include="Vertex\Vertex.h">
+      <Filter>Archivos de encabezado\Vertex</Filter>
+    </ClInclude>
+    <ClInclude Include="ECS\Components\RigidBody\RigidBody.h">
+      <Filter>Archivos de encabezado\ECS\Components\RigidBody</Filter>
+    </ClInclude>
+    <ClInclude Include="OpenGL\Buffer\Buffer.h">
+      <Filter>Archivos de encabezado\OpenGl\Buffer</Filter>
+    </ClInclude>
+    <ClInclude Include="OpenGL\Shader\Shader.h">
+      <Filter>Archivos de encabezado\OpenGl\Shader</Filter>
+    </ClInclude>
+    <ClInclude Include="ECS\Systems\RenderSystem.h">
+      <Filter>Archivos de encabezado\ECS\Systems</Filter>
+    </ClInclude>
+    <ClInclude Include="ECS\Components\Component.h">
+      <Filter>Archivos de encabezado\ECS\Components</Filter>
+    </ClInclude>
+    <ClInclude Include="ECS\Components\TransformComponent\TransformComponent.h">
+      <Filter>Archivos de encabezado\ECS\Components\TransformComponent</Filter>
+    </ClInclude>
+    <ClInclude Include="OpenGL\Texture\Texture.h">
+      <Filter>Archivos de encabezado\OpenGl\Texture</Filter>
+    </ClInclude>
+    <ClInclude Include="ECS\Systems\PhysicsSystem.h">
+      <Filter>Archivos de encabezado\ECS\Systems</Filter>
+    </ClInclude>
+    <ClInclude Include="ECS\Systems\CollisionSystem.h">
+      <Filter>Archivos de encabezado\ECS\Systems</Filter>
+    </ClInclude>
+    <ClInclude Include="ECS\Entities\EntityManager.h">
+      <Filter>Archivos de encabezado\ECS\Entity</Filter>
+    </ClInclude>
+    <ClInclude Include="ECS\Entities\Entity.h">
+      <Filter>Archivos de encabezado\ECS\Entity</Filter>
+    </ClInclude>
+    <ClInclude Include="ECS\Components\PlayerComponent\PlayerComponent.h">
+      <Filter>Archivos de encabezado\ECS\Components\PlayerComponent</Filter>
+    </ClInclude>
+    <ClInclude Include="ECS\Systems\PlayerSystem.h">
+      <Filter>Archivos de encabezado\ECS\Systems</Filter>
+    </ClInclude>
+    <ClInclude Include="ECS\Components\BrickComponent\BrickComponent.h">
+      <Filter>Archivos de encabezado\ECS\Components\BrickComponent</Filter>
+    </ClInclude>
+    <ClInclude Include="ECS\Systems\BrickSystem.h">
+      <Filter>Archivos de encabezado\ECS\Systems</Filter>
+    </ClInclude>
+    <ClInclude Include="ECS\Systems\PowerUpSystem.h">
+      <Filter>Archivos de encabezado\ECS\Systems</Filter>
+    </ClInclude>
+    <ClInclude Include="ECS\Components\PowerUpComponent\PowerUpComponent.h">
+      <Filter>Archivos de encabezado\ECS\Components\PowerUpComponent</Filter>
+    </ClInclude>
+    <ClInclude Include="ECS\Components\BallComponent\BallComponent.h">
+      <Filter>Archivos de encabezado\ECS\Components\BallComponent</Filter>
+    </ClInclude>
+    <ClInclude Include="ECS\Systems\BallSystem.h">
+      <Filter>Archivos de encabezado\ECS\Systems</Filter>
+    </ClInclude>
+    <ClInclude Include="ECS\Systems\System.h">
+      <Filter>Archivos de encabezado\ECS\Systems</Filter>
+    </ClInclude>
+    <ClInclude Include="ECS\Systems\EventManager.h">
+      <Filter>Archivos de encabezado\ECS</Filter>
+    </ClInclude>
+    <ClInclude Include="ECS\Systems\Event.h">
+      <Filter>Archivos de encabezado\ECS</Filter>
+    </ClInclude>
+    <ClInclude Include="ECS\Components\UIHealthComponent\UIHealthComponent.h">
+      <Filter>Archivos de encabezado\ECS\Components\UIHealthComponent</Filter>
+    </ClInclude>
+    <ClInclude Include="ECS\Systems\UISystem.h">
+      <Filter>Archivos de encabezado\ECS\Systems</Filter>
+    </ClInclude>
+    <ClInclude Include="ComponentManager.h">
+      <Filter>Archivos de encabezado\ECS\Components</Filter>
+    </ClInclude>
+    <ClInclude Include="ECS\Systems\LevelSystem.h">
+      <Filter>Archivos de encabezado\ECS\Systems</Filter>
+    </ClInclude>
+    <ClInclude Include="Scene\Scene.h">
+      <Filter>Archivos de encabezado\Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="OpenGL\Text\Text.h">
+      <Filter>Archivos de encabezado\OpenGl\Text</Filter>
+    </ClInclude>
+    <ClInclude Include="Dependencies\Include\ImGui\imconfig.h">
+      <Filter>Archivos de encabezado\OpenGl\ImGui</Filter>
+    </ClInclude>
+    <ClInclude Include="Dependencies\Include\ImGui\imgui.h">
+      <Filter>Archivos de encabezado\OpenGl\ImGui</Filter>
+    </ClInclude>
+    <ClInclude Include="Dependencies\Include\ImGui\imgui_impl_glfw.h">
+      <Filter>Archivos de encabezado\OpenGl\ImGui</Filter>
+    </ClInclude>
+    <ClInclude Include="Dependencies\Include\ImGui\imgui_impl_opengl3.h">
+      <Filter>Archivos de encabezado\OpenGl\ImGui</Filter>
+    </ClInclude>
+    <ClInclude Include="Dependencies\Include\ImGui\imgui_impl_opengl3_loader.h">
+      <Filter>Archivos de encabezado\OpenGl\ImGui</Filter>
+    </ClInclude>
+    <ClInclude Include="Dependencies\Include\ImGui\imgui_internal.h">
+      <Filter>Archivos de encabezado\OpenGl\ImGui</Filter>
+    </ClInclude>
+    <ClInclude Include="Dependencies\Include\ImGui\imstb_rectpack.h">
+      <Filter>Archivos de encabezado\OpenGl\ImGui</Filter>
+    </ClInclude>
+    <ClInclude Include="Dependencies\Include\ImGui\imstb_textedit.h">
+      <Filter>Archivos de encabezado\OpenGl\ImGui</Filter>
+    </ClInclude>
+    <ClInclude Include="Dependencies\Include\ImGui\imstb_truetype.h">
+      <Filter>Archivos de encabezado\OpenGl\ImGui</Filter>
+    </ClInclude>
+    <ClInclude Include="ECS\Components\Colliders\Colliders.h">
+      <Filter>Archivos de encabezado\ECS\Components\ColliderComponent</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Data\FragmentShader.glsl">
+      <Filter>Data</Filter>
+    </None>
+    <None Include="Data\VertexShader.glsl">
+      <Filter>Data</Filter>
+    </None>
+  </ItemGroup>
+</Project>

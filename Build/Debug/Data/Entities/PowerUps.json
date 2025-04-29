@@ -1,0 +1,49 @@
+{
+  "powerUpPositionX": 400,
+  "powerUpPositionY": 300,
+  "velocityX": 0,
+  "velocityY": -50,
+
+  "AddBallPowerUp": {
+    "RenderComponent": {
+      "texture": "Data/Textures/NewBallPowerUp.png"
+    },
+    "TransformComponent": {
+      "positionX": 400,
+      "positionY": 50
+    },
+    "RigidBody": {
+      "velocityX": 0,
+      "velocityY": 150
+    }
+  },
+
+  "AccelerateBallPowerUp": {
+    "RenderComponent": {
+      "texture": "Data/Textures/AccelerateBallPowerUp.png"
+    },
+    "TransformComponent": {
+      "positionX": 400,
+      "positionY": 50
+    },
+    "RigidBody": {
+      "velocityX": 0,
+      "velocityY": 150
+    }
+  },
+
+  "DecelerateBallPowerUp": {
+    "RenderComponent": {
+      "texture": "Data/Textures/DecelerateteBallPowerUp.png"
+    },
+    "TransformComponent": {
+      "positionX": 400,
+      "positionY": 50
+    },
+    "RigidBody": {
+      "velocityX": 0,
+      "velocityY": 150
+    }
+  }
+
+}
